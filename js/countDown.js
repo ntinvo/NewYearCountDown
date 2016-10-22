@@ -2,7 +2,7 @@
  * Some variables
  */
 var timeInteval;
-var endDate 	= 'Decmber 31 2016 23:59:59';
+var endDate 	= 'January 01 2017 00:00:00';
 var newYearBtn  = document.getElementById('goToNewYear');
 var resetBtn	= document.getElementById('goBackToCurrent');
 
@@ -48,6 +48,10 @@ function countDown(endDate) {
 			// Happy new year
 			document.getElementById("gif-photo").src = "images/happy-new-year.gif"; 
 			document.getElementById("gif-photo").style = "width: 75%, height: auto;"; 
+
+			// Play audio
+			var audioPlayer = document.getElementById("myAudio");
+			audioPlayer.play();
 
 			// Remove the buttons
 			newYearBtn.remove();
@@ -119,6 +123,10 @@ function goToNewYearHandler() {
 			// Happy new year
 			document.getElementById("gif-photo").src = "images/happy-new-year.gif"; 
 			document.getElementById("gif-photo").style = "width: 75%, height: auto;"; 
+
+			// Play audio
+			var audioPlayer = document.getElementById("myAudio");
+			audioPlayer.play();
 
 			// Remove the buttons
 			newYearBtn.remove();
