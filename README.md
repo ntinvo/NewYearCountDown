@@ -26,7 +26,7 @@
 
     * "Go To Current Time" is the actualy time left to New Year. This button is used after we test out site with "Go To New Year" button and want to go back to the actual time.
 
-2. Bonus: there is a audio play in the background when time reaches 0. If you are interested and want to test it, please go to "./js/countDown.js" file and uncomment lines 52-54 and 127-129.
+2. Bonus: there is a audio play in the background when time reaches 0. If you are interested and want to test it, please go to "./js/countDown.js" file and uncomment lines 53-54 and 128-129.
 
 ## Sources:
 
