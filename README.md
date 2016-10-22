@@ -18,7 +18,7 @@
 
     * Should make font-size a little bit bigger on small/medium devices so that it can be easily see.  
 
-    * Maybe at some animation like when the user click on the site, there will be some fireworks show up.
+    * Maybe at some animations like when the users click on the site, there will be some fireworks show up.
 
     * I would add the user location on the count down (such as Austin, TX or San Francisco, CA).
 
