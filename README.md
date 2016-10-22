@@ -21,12 +21,16 @@
 
 ## Usage
 
-1. Testing: there is two buttons that can be used for testing purpose:
+1. Please clone or download the source code and open countdown.html to run it.
+
+2. Visit this count down's site at: [Count Down to New Year 2017](https://tinvo1101.github.io/countDown/countdown.html) 
+
+3. Testing: there is two buttons that can be used for testing purpose:
     * "Go To New Year" button will set the time to 5 seconds before New Year. This will help when we want to test what will happen when time reaches 0.
 
     * "Go To Current Time" is the actualy time left to New Year. This button is used after we test out site with "Go To New Year" button and want to go back to the actual time.
 
-2. Bonus: there is a audio play in the background when time reaches 0. If you are interested and want to test it, please go to "./js/countDown.js" file and uncomment lines 53-54 and 128-129.
+4. Bonus: there is a audio play in the background when time reaches 0. If you are interested and want to test it, please go to "./js/countDown.js" file and uncomment lines 53-54 and 128-129.
 
 ## Sources:
 
