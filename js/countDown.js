@@ -2,7 +2,7 @@
  * Some variables
  */
 var timeInteval;
-var endDate 	= 'Decmber 31 2016 23:59:59';
+var endDate 	= 'January 01 2017 00:00:00';
 var newYearBtn  = document.getElementById('goToNewYear');
 var resetBtn	= document.getElementById('goBackToCurrent');
 
