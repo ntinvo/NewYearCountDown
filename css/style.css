@@ -1,0 +1,34 @@
+/* Body */
+body{
+	text-align: center;
+	background: #2980b9;
+	font-family: 'Proza Libre', sans-serif;
+	font-weight: 100;
+	color: #ecf0f1;
+}
+
+/* The clock div */
+#clock{
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+/* Days:Hours:Minutes:Seconds*/
+#days,#hours,#minutes,#seconds {
+	font-size: 80px;
+} 
+
+/* Button group */
+.button-group {
+	top: 500px;
+}
+
+/* Happy new year gif */
+.gif {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+    right: 0;
+}
