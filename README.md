@@ -3,6 +3,7 @@ New Year 2017 Count Down
 1. I spent about 10 minutes to write the script for the count down, about 30 minutes to improve the UI and to add some more features to the site. So, it's about 40 minutes in total. I deviced not to use Jquery because it is a little bit overkill for such a simple function. 
 
 2. Tools used: 
+
 ⋅⋅* Bootstrap: I used Bootstrap because I find it really easy to layout the website as well as make it to look good on different devices.
 
 ..* SweetAlert: since the traditional alert does not look good to me, so I used SweetAlert to implement the alert because it makes the alert look great on all of devices, and it is easily customized. 
