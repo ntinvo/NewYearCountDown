@@ -40,6 +40,21 @@ function countDown(endDate) {
 		} else {
 			// Clean interval
 			clearInterval(timeInteval);
+			
+			// Change background and backgroundSize
+			document.body.style.background = "url('images/new-year.jpg') no-repeat center center fixed";
+			document.body.style.backgroundSize= "cover";
+		
+			// Happy new year
+			document.getElementById("gif-photo").src = "images/happy-new-year.gif"; 
+			document.getElementById("gif-photo").style = "width: 75%, height: auto;"; 
+
+			// Remove the buttons
+			newYearBtn.remove();
+			resetBtn.remove();
+
+			// Change text color
+			document.getElementsByTagName("body")[0].style.color = "#e74c3c";
 
 			// Alert
 			swal({
@@ -96,6 +111,21 @@ function goToNewYearHandler() {
 		} else {
 			// Clean interval
 			clearInterval(timeInteval);
+			
+			// Change background and backgroundSize
+			document.body.style.background = "url('images/new-year.jpg') no-repeat center center fixed";
+			document.body.style.backgroundSize= "cover";
+		
+			// Happy new year
+			document.getElementById("gif-photo").src = "images/happy-new-year.gif"; 
+			document.getElementById("gif-photo").style = "width: 75%, height: auto;"; 
+
+			// Remove the buttons
+			newYearBtn.remove();
+			resetBtn.remove();
+
+			// Change text color
+			document.getElementsByTagName("body")[0].style.color = "#e74c3c";
 
 			// Alert
 			swal({
