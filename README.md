@@ -14,7 +14,11 @@
 
     * Because this is a count down website to new year, I would add some background new year music so that it will be a little bit more fun for the users. I would put a list of songs that the users can choose to play.
 
-    * The website can scale to count down to any date. I would scale it so that the users can choose to count down to any date/events in the year such as Halloween, Thanksgiving, Black Friday, Christmas, and may be a dating anniversary.  
+    * The website can scale to count down to any date. I would scale it so that the users can choose to count down to any date/events in the year such as Halloween, Thanksgiving, Black Friday, Christmas, and may be a dating anniversary.
+
+    * Should make font-size a little bit bigger on small/medium devices so that it can be easily see.  
+
+    * Maybe at some animation like when the user click on the site, there will be some fireworks show up.
 
     * I would add the user location on the count down (such as Austin, TX or San Francisco, CA).
 
